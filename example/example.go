@@ -1,3 +1,4 @@
+//Package example is pkg for example
 package example
 
 // Add sum two int
